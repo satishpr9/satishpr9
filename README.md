@@ -41,5 +41,5 @@ Building production-ready AI applications with RAG and Agentic Workflows.
 
 ## Contribution Graph
 
-![snake dark](https://raw.githubusercontent.com/satishpr9/satishpr9/output/github-contribution-grid-snake-dark.svg)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishpr9&theme=github_dark" />
 
