@@ -41,5 +41,5 @@ Building production-ready AI applications with RAG and Agentic Workflows.
 
 ## Contribution Graph
 
-![snake gif](https://github.com/satishpr9/satishpr9/blob/output/github-contribution-grid-snake.svg)
+![snake dark](https://raw.githubusercontent.com/satishpr9/satishpr9/output/github-contribution-grid-snake-dark.svg)
 
