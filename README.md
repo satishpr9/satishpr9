@@ -1,178 +1,45 @@
-<h1 align="center">Satish Kumar Pandey</h1>
-
-<h3 align="center">
-AI Engineer • Python Developer • RAG & LLM Application Builder
-</h3>
 
 <p align="center">
-Building Intelligent Applications using FastAPI, LangChain, LangGraph and Generative AI
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Engineer;Python+Developer;RAG+Systems+Builder;FastAPI+Developer;Building+Production+Grade+AI+Applications" />
 </p>
+# Hey, I'm Satish 👋
 
-<p align="center">
-<a href="mailto:satishpr92@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
+AI Engineer from India.
 
-<a href="https://github.com/satishpr9">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
-</a>
-</p>
+I build:
 
----
+🧠 RAG Systems
 
-# 👨‍💻 About Me
+⚡ FastAPI Backends
 
-Python & AI Engineer with experience building:
+🤖 AI Agents
 
-✅ RAG Applications
+📚 Question Generation Platforms
 
-✅ LLM Powered Chatbots
+🔍 NLP Applications
 
-✅ FastAPI Backend Systems
-
-✅ Machine Learning Solutions
-
-✅ NLP Applications
-
-✅ Real-Time AI Streaming Systems
+Currently building an AI platform that transforms PDFs into MCQs, Short Answers, and Long Answer Questions.
 
 ---
 
-# 🚀 Current Focus
+### Tech
 
-🔹 AI Question Generator Platform
-
-🔹 Multi-Agent Systems using LangGraph
-
-🔹 RAG Systems
-
-🔹 FastAPI Production APIs
-
-🔹 Generative AI Applications
+Python • FastAPI • Django • LangChain • LangGraph • PostgreSQL • Docker • AWS
 
 ---
 
-# ⚙️ Tech Stack
+### Current Focus
 
-## Languages
-
-Python • JavaScript • SQL
-
-## Backend
-
-FastAPI • Django • Flask • REST APIs
-
-## AI / ML
-
-Machine Learning
-
-PyTorch
-
-LangChain
-
-LangGraph
-
-CrewAI
-
-Prompt Engineering
-
-LLMs
-
-NLP
-
-RAG
-
-Vector Search
-
-## Databases
-
-PostgreSQL
-
-MySQL
-
-SQLite
-
-Redis
-
-Firebase
-
-## DevOps
-
-Docker
-
-AWS
-
-Linux
-
-Git
+Building production-ready AI applications with RAG and Agentic Workflows.
 
 ---
 
-# 🏆 Featured Projects
-
-## 📚 RAG Powered Data Assistant
-
-Production-grade AI assistant that enables users to interact with PDFs and databases using natural language.
-
-### Features
-
-- PDF Question Answering
-- Database Querying
-- Real-Time Token Streaming
-- JWT Authentication
-- Persistent Conversations
-- Charts & Analytics
-
-### Stack
-
-FastAPI • React • SQLAlchemy • RAG • LLM APIs
-
----
-
-## 🏥 Medical Chatbot using RAG
-
-AI-powered healthcare assistant built using trusted medical documents.
-
-### Stack
-
-LangChain • FAISS • OLLAMA • Streamlit
-
----
-
-## 😊 Sentiment Analysis System
-
-Text classification pipeline using Machine Learning and NLP.
-
-### Stack
-
-Scikit-Learn • NLTK • Pandas • TF-IDF
-
----
-
-## 🎓 Student Performance Prediction
-
-Machine Learning model for academic performance forecasting.
-
----
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=satishpr9&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=satishpr9&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishpr9&layout=compact&theme=tokyonight)
-
----
-
-# 📫 Connect
+### Contact
 
 📧 satishpr92@gmail.com
 
-🌐 https://satishpr9.github.io/Portfolio/
 
-💻 https://github.com/satishpr9
+## Contribution Graph
 
----
+![snake gif](https://github.com/satishpr9/satishpr9/blob/output/github-contribution-grid-snake.svg)
 
-⭐ Building AI systems that solve real-world problems.
