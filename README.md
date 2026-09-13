@@ -1,77 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=SATISH&fontSize=80&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Systems%20That%20Think&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=SATISH&fontSize=72&fontColor=FF3366&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think&descAlignY=55&descSize=17&descColor=E0E0E0" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+AI_ENGINE...;%3E+RAG+SYSTEMS+ARCHITECT;%3E+AGENTIC+WORKFLOW+BUILDER;%3E+FASTAPI+%7C+LANGCHAIN+%7C+LANGGRAPH;%3E+STATUS%3A+ALWAYS_SHIPPING" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=FF3366&center=true&vCenter=true&width=850&lines=RAG+Systems+Architect;Agentic+Workflow+Engineer;FastAPI+%7C+LangChain+%7C+LangGraph;Turning+PDFs+into+Intelligent+Assessments" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-SHIPPING-FF3366?style=flat-square&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI-8A2BE2?style=flat-square&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-00D9FF?style=flat-square&labelColor=0F0C29" />
 
 </div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=satishpr9&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9" align="right" width="42%" />
+## ⟡ Overview
 
-## `root@satish:~#` whoami
+I design and ship production-grade AI systems — from retrieval pipelines to autonomous agents. Right now I'm building a platform that turns raw PDFs into structured **MCQs, short-answer, and long-answer questions** using RAG and agentic workflows.
 
-```bash
-> class AIEngineer:
-      def __init__(self):
-          self.name        = "Satish"
-          self.origin      = "India"
-          self.builds       = ["RAG Systems", "AI Agents", "FastAPI Backends"]
-          self.current_op  = "PDF -> MCQ / Short / Long Answer Generator"
-          self.status      = "🔴 LIVE — shipping production-grade AI"
+```python
+class Satish:
+    def __init__(self):
+        self.role      = "AI Engineer"
+        self.builds    = ["RAG Systems", "AI Agents", "Question Generation Platforms"]
+        self.currently = "PDF → MCQ / Short / Long Answer Engine"
+        self.stack     = ["Python", "FastAPI", "LangChain", "LangGraph"]
 ```
 
-<br clear="right"/>
+<br>
 
----
-
-## ⚔️ Arsenal
+## ⟡ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FF0000)
-![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF0000)
-![Django](https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=FF0000)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=chainlink&logoColor=FF0000)
-![LangGraph](https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&logo=graphql&logoColor=FF0000)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FF0000)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF0000)
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,aws,git,github&theme=dark" />
+
+<br><br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=8A2BE2)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=8A2BE2)
 
 </div>
 
----
+<br>
 
-## 🧠 Active Payloads
+## ⟡ What I'm Building
 
-```yaml
-> RAG_SYSTEMS:        deployed — retrieval-augmented, production-hardened
-> AI_AGENTS:          autonomous, tool-calling, multi-step reasoning
-> QUESTION_ENGINE:    PDF → MCQ / Short-Answer / Long-Answer generation
-> NLP_PIPELINES:      built for scale, tuned for accuracy
-```
+| | |
+|---|---|
+| 🧩 **RAG Systems** | Retrieval-augmented pipelines built for accuracy at scale |
+| 🤖 **AI Agents** | Autonomous, tool-calling, multi-step reasoning workflows |
+| 📄 **Question Engine** | PDFs → MCQ / Short-Answer / Long-Answer generation |
+| ⚙️ **APIs & Backends** | FastAPI services engineered for production |
 
----
+<br>
 
-## 📡 Transmission Log
+## ⟡ GitHub Stats
+
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=satishpr9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&icon_color=8A2BE2&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satishpr9&theme=radical&hide_border=true&background=0D1117&ring=FF3366&fire=8A2BE2&currStreakLabel=FF3366" />
+</div>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishpr9&theme=github_dark" width="100%"/>
 </div>
 
----
+<br>
 
-## ☠️ Connect
+## ⟡ Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:satishpr92@gmail.com)
+[![Email](https://img.shields.io/badge/-satishpr92%40gmail.com-0F0C29?style=for-the-badge&logo=gmail&logoColor=FF3366)](mailto:satishpr92@gmail.com)
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=100&section=footer" width="100%"/>
-
-**`> Every AI system I ship is a weapon against inefficiency.`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=110&section=footer" width="100%"/>
 
 </div>
