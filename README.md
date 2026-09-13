@@ -29,12 +29,12 @@ class Satish:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,aws,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,docker,aws,git,github&theme=dark" />
 
 <br><br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logo=langchain&logoColor=38BDF8)
-![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logo=graphql&logoColor=38BDF8)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logo=langgraph&logoColor=38BDF8)
 
 </div>
 
