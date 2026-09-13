@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Retrieval-Augmented+Generation+Systems;Designing+Autonomous+AI+Agents;FastAPI+%7C+LangChain+%7C+LangGraph;Turning+PDFs+into+Structured+Assessments" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Retrieval-Augmented+Generation+Systems;Designing+Autonomous+AI+Agents;FastAPI+%7C+LangChain+%7C+LangGraph;Turning+PDFs+into+Structured+Assessments" />
 
 </div>
 
@@ -55,7 +55,7 @@ class Satish:
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satishpr9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satishpr9&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=satishpr9&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 </div>
 
 <br>
