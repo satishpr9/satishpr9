@@ -17,8 +17,7 @@ I build:
 
 🔍 NLP Applications
 
-Currently building an AI platform that transforms PDFs into MCQs, Short Answers, and Long Answer Questions.
-
+Currently building an AI Product and Low level Product
 ---
 
 ### Tech
